@@ -17,7 +17,7 @@ happyHolidaysTo("you")
 /**/
 function happyHolidayTo(holiday,name){
   console.log(`Happy ${holiday}, ${name}!`)
-  return `Wishing you a happy ${holiday}, ${name}!`
+  return `Happy ${holiday}, ${name}!`
 }
 
 happyHolidayTo("Independence Day", "you")
