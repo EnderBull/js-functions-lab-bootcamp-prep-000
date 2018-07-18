@@ -11,7 +11,7 @@ function happyHolidaysTo(name){
   return `Happy Holidays, ${name}!`
 }
 
-happyHolidaysTo("Mathew")
+happyHolidaysTo("you")
 
 function happyHolidayTo(holiday,name){
   console.log(`Wishing you a happy ${holiday}, ${name}!`)
